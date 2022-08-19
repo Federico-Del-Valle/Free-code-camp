@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(13, 89, 0);
+    color: white;
+    font-weight: bold;
+}
+h1{
+    font-size: 50px;
+    color: rgb(236, 181, 0);
+    margin-bottom: 50px;
+    font-style: italic;
+}
+#message-el{
+    font-style: italic;
+}
+p{
+    padding: 40px;
+    font-size: 30px;
+}
+#start-btn {
+    padding: 10px 40px;
+    font-size: 20px;
+    font-weight: 800;
+    color: rgb(29, 99, 17);
+    background-color: rgb(236, 181, 0);
+    border: none;
+}
+#new-card-btn {
+    padding: 10px 40px;
+    font-size: 20px;
+    font-weight: 800;
+    color: rgb(29, 99, 17);
+    background-color: rgb(236, 181, 0);
+    border: none;
+    margin: 20px;
+}
+
+
+#apple-shelf{
+    background-color: red;
+    padding: 30px 20px;
+    margin: 0 auto;
+    border-radius: 10px;
+    margin-top: 40px;
+}
+#orange-shelf{
+    background-color: orange;
+    padding: 30px 20px;
+    margin: 0 auto;
+    border-radius: 10px;
+    margin-top: 40px;
+}
